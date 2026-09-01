@@ -2,6 +2,7 @@
 
 Aplicativo Celular tal qual tem por objetivo servir como uma agenda inteligente para organizar uma rotina de estudos densa.
 
+OBSERVAÇÃO: *As primeiras versões do projeto terão o backend/engine em php, depois transicionarei para C/C++*
 ## Documentação e Planejamento 
 
 *  **Wireframes (Canva):** [Acessar Designs no Canva] (https://canva.link/w6tap1vql1r0022)
