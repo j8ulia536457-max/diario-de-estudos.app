@@ -1,0 +1,11 @@
+/*darkmode colors*/
+:root, [data-theme="dark"] {
+    --background-color: #1e1e1e;
+    --text-color: #ffffff;
+    --link-color: #4a90e2;
+    --button-background-color: #4a90e2;
+    --button-text-color: #ffffff;
+    --header-background-color: #333333;
+    --footer-background-color: #333333;
+}
+/*clearmode colors*/
