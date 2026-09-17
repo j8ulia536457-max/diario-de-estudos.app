@@ -1,0 +1,3 @@
+1. Criando Cadastro
+    Ao criar o cadastro, deparei-me com uma função chamada "mysql_real_escape_string", no entanto, ela foi descontinuada nas versões 5 e completamente removida na versão 7 do php.
+        - Alternativa encontrada: Usar a Extensão MySQLi, que possui mesmo nome da anterior, porém ao invés de pertencer a mysql_*, pertence a mysqli_*.
